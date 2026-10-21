@@ -1,0 +1,6 @@
+{
+  "name": "Peta Interaktif Jalur Kedatangan Bangsa Asing ke Nusantara",
+  "description": "Simulasi interaktif alur pelayaran kapal, latar belakang, dan sejarah kedatangan bangsa Portugis, Spanyol, Belanda, dan Inggris ke Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
